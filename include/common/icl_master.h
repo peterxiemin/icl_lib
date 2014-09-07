@@ -1,7 +1,7 @@
 /*
  * icl_master.h
  *
- *  Created on: 2014Äê1ÔÂ23ÈÕ
+ *  Created on: 2014-1-23
  *      Author: peterxmw
  */
 

@@ -1,7 +1,7 @@
 /*
  * icl_array.h
  *
- *  Created on: 2014Äê1ÔÂ27ÈÕ
+ *  Created on: 2014-1-27
  *      Author: peterxmw
  */
 

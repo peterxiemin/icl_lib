@@ -1,8 +1,8 @@
 /*
  * icl_master.c
  *
- *  Created on: 2014年1月23日
- *  Modify  on: 2014年9月4日
+ *  Created on: 2014-1-23
+ *  Modify  on: 2014-9-4
  *      Author: peterxmw
  */
 
